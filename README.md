@@ -55,12 +55,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/HellenLavyne/HellenLavyne/output/github-contribution-grid-snake.svg"
-    alt="Snake animation"
-  />
-</div>
 
 <br/>
 <br/>
