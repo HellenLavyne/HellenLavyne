@@ -1,4 +1,10 @@
-# 👩🏻‍💻 Hellen Lavyne
+<h1 align="center">Olá, eu sou Hellen Lavyne. </h1>
+
+<h3 align="center"> Estudante de Ciência de Dados | UFC </h3> <p align="center"> Explorando o universo dos dados por meio da estatística, programação e inteligência artificial. </p> 
+
+--- 
+
+### 👩🏻‍💻 Sobre mim
 
 🎓 Graduanda em Ciência de Dados na UFC.
 
@@ -14,14 +20,14 @@
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/HellenLavyne?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/HellenLavyne?color=hotpink&style=for-the-badge&labelColor=deeppink&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Larissakich?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/HellenLavyne?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/HellenLavyne?color=mediumorchid&labelColor=darkorchid&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -53,9 +59,20 @@
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  />
+</p>
 
+
+---
+
+### Áreas de estudo 
+- Análise e visualização de dados
+- Estatística aplicada
+- Aprendizado de máquina
+- Redes neurais
+- Processamento de dados
+
+---
 
 <br/>
 <br/>
