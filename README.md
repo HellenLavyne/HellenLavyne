@@ -68,7 +68,7 @@
 ### Áreas de estudo 
 - Análise e visualização de dados
 - Estatística aplicada
-- Aprendizado de máquina
+- Visão Computacional
 - Redes neurais
 - Processamento de dados
 
